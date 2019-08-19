@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{Photos/bio.jpg}{alt text}{140}{160}{https://hamedrahimian.github.io/hr/index/}
+Postdoctoral Research Fellow \n
+[https://www.mccormick.northwestern.edu/industrial/ Department of Industrial Engineering and Management Sciences] \n
+[https://www.northwestern.edu Northwestern University] \n 
+Tech C210 \n
+2145 Sheridan Rd \n 
+Evanston, IL 60208 \n
+E-mail: [hamed@northwestern.edu/ hamed@northwestern.edu]
+~~~
+
+== About me
+I am currently a Postdoctoral Research Fellow in the [https://www.mccormick.northwestern.edu/industrial/ Department of Industrial Engineering and Management Sciences] at [https://www.northwestern.edu Northwestern University] under supervision of Prof. [https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mehrotra-sanjay.html Sanjay Mehrotra].
+I recieved my Ph.D. in Industrial and Systems Engineering from the [https://ise.osu.edu Department of Integrated Systems Engineering at [https://www.osu.edu The Ohio State University], under supervision of Prof. [http://u.osu.edu/bayraksan.1 Guzin Bayraksan]. 
+I also received my M.Sc. in Industrial Engineering from [http://www.arizona.edu The University of Arizona] in 2012, 
+and my M.Sc. and B.Sc. in Industrial Engineering from Sharif University of Technology, Tehran, Iran, in 2011 and 2008. 
+
+== Research
+My research focuses on the theoretical and practical aspects of decision-making problems in uncertain and risky environments. 
+In particular, my research interests include  
+ - Stochastic optimization 
+ - Data-driven optimization
+ - Risk-averse and distributionally robust optimization
+
+[research.html Find out more].
+
+== News
+
+- October 2019: Organizing two sessions on "Distributionally Robust Optimization" at INFORMS Annual Meeting 2019 
+- June 2019: Presented a poster on "Effective Scenarios in Data-Driven Multistage Distributionally Robust Stochastic Optimization" at [https://icerm.brown.edu/topical_workshops/tw19-2-hire/ Mathematical Optimization of Systems Impacted by Rare, High-Impact Random Events] workshop. 
+- June 2019: Our paper on "[https://doi.org/10.1016/j.ejor.2019.06.036 Controlling Risk and Demand Aambiguity in Newsvendor Models]" is published in European Journal of Operationals Research. 
+- May 2019: Selected as 2nd place in 2019 [https://www.iise.org/awards.aspx?id=10802 IISE Pritsker Doctoral Dissertation Award] for "[https://etd.ohiolink.edu/!etd.send_file?accession=osu1531822931371766&disposition=inline Risk-Averse and Distributionally Robust Optimization: Methodology and Applications"]. 
+- November 2018: Presented a talk on "Controlling Risk and Demand Aambiguity in Newsvendor Models" at INFORMS Annual Meeting 2018.
+- November 2018: Organized a session on "Stochastic and Distributionally Stochastic Optimzation" at INFORMS Annual Meeting 2018.
+- March 2018: Presented a talk on "Effective Scenarios in Data-Driven Multistage Distributionally Robust Stochastic Optimization" at INFORMS Optimization Soceity Conference 2018. 
+- May 2018: Defended PH.D. Dissertation. 
+- September 2018: Joined Prof. https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mehrotra-sanjay.html Mehrotra]'s research group as a Postdoctoral Research Fellow. 
+- December 2017: Our paper on "[https://link.springer.com/article/10.1007/s10107-017-1224-6 Identifying Effective Scenarios in Distributionally Robust Stochastic Programs with Total Variation Distance]" is published in Mathematical Programming.
+- November 2017: Successfully passed Ph.D. Dissertation Colloquium.
+- October 2017: Selected as Runner-Up in [https://www.informs.org/Recognizing-Excellence/Award-Recipients/Hamed-Rahimian 2017 INFORMS Computing Society Student Paper Award] for the paper "[https://doi.org/10.1007/s10107-017-1224-6 Identifying Effective Scenarios in Distributionally Robust Stochastic Programs with Total Variation Distance]". 
+- October 2017: Organized a session on "Distributionally Robust stochastic Programming" at INFORMS Annual Meeting 2017.
+- October 2017: Presented a talk on "Distributionally Robust Newsvendor Problem with Variation Distance" at INFORMS Annual Meeting 2017. 
+- May 2017: Organized a session on "Inventory Management in Supply Chains" at IISE Annual Conference and Expo 2017. 
+- May 2017: Presented a talk on "Distributionally Robust Newsvendor Problem with Variation Distance" at IISE Annual Conference and Expo 2017. 
+- May 2017: Attended IISE Annual Conference and Expo 2017 Doctoral Students Colloquium.
+- November 2016: Presented a talk on "Distributionally Robust Newsvendor Problem with Variation Distance" at INFORMS Annual Meeting 2016.
+- November 2016: Attended INFORMS Annual Meeting 2016 Doctoral Students Colloquium.
+- October 2016: INFORMS Student Chapter at The Ohio State University won INFORMS Magna Cum Laude award in 2016.
+- April 2016: Awarded a [https://ise.osu.edu/news/2016/04/ise-ph.d.-student-wins-presidential-fellowship Presidential Fellowship], the most competitive and prestigious scholarly recognition provided by The Ohio State University Graduate School. The Fellowship tenure is Summer 2016- Spring 2017.
+- March 2016: Successfully passed Ph.D. Candidacy Examination. 
+- March 2016: Presented a talk on "“Identifying Effective Scenarios in Distributionally Robust Stochastic Programswith Variation Distance" at INFORMS Optimization Society Conference 2016.
+- November 2015: Presented a talk on "Ambiguous Stochastic Programs with Variation Distance" at INFORMS Annual Meeting 2015.
+- November 2015: INFORMS Student Chapter at The Ohio State University won INFORMS Cum Laude award in 2015.
+- July 2015: Presented a talk on "Distributionally Robust Stochastic Programs with Variation Distance" at 22nd International Symposium on Mathematical Programming (ISMP). 
+- November 2014: Presented a talk on "Decomposition Algorithms for Mean-CVaR Multistage Stochastic Linear Programs" at INFORMS Annual Meeting 2014.
+- July 2014: Volunteered in [https://mip2014.engineering.osu.edu/ 2014 Mixed-Integer Programming Workshop], Columbus, OH.
+- February 2014: Elected as President, INFORMS Student Chapter at The Ohio State University.
+
+
+
+
+
