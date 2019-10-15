@@ -26,10 +26,16 @@ I am currently a Postdoctoral Research Fellow in the [https://www.mccormick.nort
 I recieved my Ph.D. in Industrial and Systems Engineering from the [https://ise.osu.edu Department of Integrated Systems Engineering at [https://www.osu.edu The Ohio State University], under supervision of Prof. [http://u.osu.edu/bayraksan.1 Guzin Bayraksan]. 
 I also received my M.Sc. in Industrial Engineering from [https://www.arizona.edu The University of Arizona] in 2012, 
 and my M.Sc. and B.Sc. in Industrial Engineering from Sharif University of Technology, Tehran, Iran, in 2011 and 2008. 
-My Ph.D. research has been recognized by by a *Runner-Up prize in 2017 INFORMS Computing Society Student Paper Award* and a *2nd place prize in 2019 IISE Pristker Docotoral Dissertation Award*.
+My Ph.D. research has been recognized by  a *Runner-Up prize in 2017 INFORMS Computing Society Student Paper Award* and a *2nd Place prize in 2019 IISE Pristker Docotoral Dissertation Award*.
 
-<span style="color:blue">I am on the job market this year, and I will be attending INFORMS Annual Meeting Oct 20-23, 2019 in Seattle, WA. 
-My talks are scheduled for (1) *Monday, Oct 21, Session MA43 in CC-Room 612 at 8:00 AM*, and (ii) *Tuesday, Oct 22, Session WC44 in CC-Room 613 at 1:30 PM*.</span>
+~~~
+{}{raw}
+<span style="color:blue">
+I am on the job market this year, and I will be attending INFORMS Annual Meeting Oct 20-23, 2019 in Seattle, WA. 
+My talks are scheduled for (1) <b>Monday, Oct 21, Session MA43 in CC-Room 612 at 8:00 AM</b>, and (ii) <b>Tuesday, Oct 22, Session WC44 in CC-Room 613 at 1:30 PM</b>.
+</span>
+~~~
+
 
 == Research
 My research focuses on the theoretical and practical aspects of decision-making problems in uncertain and risky environments. 
