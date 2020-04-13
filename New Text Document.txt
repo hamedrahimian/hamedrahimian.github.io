@@ -1,0 +1,1 @@
+write /usr/local/bin/jemdoc/jemdoc.py -c mysite.conf index
