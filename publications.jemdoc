@@ -9,6 +9,24 @@
 ~~~
 {}{raw}
 <ul>
+<li><p><b>Contextual Chance-Constrained Programming</b>, with B. Pagnoncelli </p>
+<ul>
+<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/11/8117.html">Optimization-Online December 2020</a></p>
+</li>
+<li>
+<article><p><b>Abstract</b>: 
+Uncertainty in classical stochastic programming models is often described solely by independent random parameters, ignoring their dependence on multidimensional features. We describe a novel contextual chance-constrained programming formulation that incorporates features, and argue that solutions that do not take them into account may not be implementable. Our formulation cannot be solved exactly in most cases, and we propose a tractable and fully data-driven approximate model that relies on weighted sums of random variables. Borrowing results from quenched large deviation theory we show the exponential convergence of our scheme as the number of data points increases. We illustrate our findings with an example from a soccer hiring problem based on the player’s transfer market in the UK using real data.
+</p>
+</article> 
+</li>
+</ul>   
+</li>
+</ul>
+~~~
+
+~~~
+{}{raw}
+<ul>
 <li><p><b>Sequential Convexification of a Bilinear Set</b>, with S. Mehrotra </p>
 <ul>
 <li><p><a href="http://www.optimization-online.org/DB_HTML/2020/01/7595.html">Optimization-Online January 2020</a></p>
