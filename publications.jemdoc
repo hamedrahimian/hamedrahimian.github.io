@@ -9,27 +9,9 @@
 ~~~
 {}{raw}
 <ul>
-<li><p><b>Contextual Chance-Constrained Programming</b>, with B. Pagnoncelli </p>
-<ul>
-<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/11/8117.html">Optimization-Online December 2020</a></p>
-</li>
-<li>
-<article><p><b>Abstract</b>: 
-Uncertainty in classical stochastic programming models is often described solely by independent random parameters, ignoring their dependence on multidimensional features. We describe a novel contextual chance-constrained programming formulation that incorporates features, and argue that solutions that do not take them into account may not be implementable. Our formulation cannot be solved exactly in most cases, and we propose a tractable and fully data-driven approximate model that relies on weighted sums of random variables. Borrowing results from quenched large deviation theory we show the exponential convergence of our scheme as the number of data points increases. We illustrate our findings with an example from a soccer hiring problem based on the player’s transfer market in the UK using real data.
-</p>
-</article> 
-</li>
-</ul>   
-</li>
-</ul>
-~~~
-
-~~~
-{}{raw}
-<ul>
 <li><p><b>Sequential Convexification of a Bilinear Set</b>, with S. Mehrotra </p>
 <ul>
-<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/01/7595.html">Optimization-Online January 2020</a></p>
+<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/01/7595.html">Optimization-Online August 2022</a></p>
 </li>
 <li>
 <article><p><b>Abstract</b>: 
@@ -48,11 +30,30 @@ We present a sequential convexification procedure to derive, in the limit, a set
 <ul>
 <li><p><b>A Finitely Convergent Disjunctive Cutting Plane Algorithm for Bilinear Programming</b>, with S. Mehrotra </p>
 <ul>
-<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/01/7594.html">Optimization-Online January 2020</a></p>
+<li><p><a href="http://www.optimization-online.org/DB_HTML/2020/01/7594.html">Optimization-Online August 2022</a></p>
 </li>
 <li>
 <article><p><b>Abstract</b>: 
-We develop a finitely convergent disjunctive cutting plane algorithm to obtain an $\epsilon$-optimal solution or detect infeasibility of a general nonconvex continuous bilinear program. While our cutting planes are obtained in a similar manner to Saxena et al. (2010) and Fampa and Lee (2018), a feature of our algorithm that guarantees the finite convergence is exploring near-optimal extreme point solutions to a current relaxation at each iteration. In this sense, our proposed algorithm extends the idea analyzed in Owen and Mehrotra (2001) for solving mixed-integer linear programs to the general bilinear programs.
+In this paper we present and analyze a finitely-convergent disjunctive cutting plane algorithm to obtain an $\epsilon$-optimal solution or detect infeasibility of a general nonconvex continuous bilinear program. While the cutting planes are obtained in a manner similar to Saxena, Bonami, and Lee [Math. Prog. 130: 359--413, 2011] and Fampa and Lee [J. Global Optim. 80: 287--305, 2021], a feature of the algorithm that guarantees finite convergence is exploring near-optimal extreme point solutions to a current relaxation at each iteration. In this sense, the presented algorithm and its analysis extend the work Owen and Mehrotra [Math. Prog. 89: 437--448, 2001] for solving mixed-integer linear programs to the general bilinear programs..
+</p>
+</article> 
+</li>
+</ul>   
+</li>
+</ul>
+~~~
+
+
+~~~
+{}{raw}
+<ul>
+<li><p><b>Contextual Chance-Constrained Programming</b>, with B. K. Pagnoncelli </p>
+<ul>
+<li><p><a href="https://optimization-online.org/2020/11/8117/">Optimization-Online December 2020</a></p>
+</li>
+<li>
+<article><p><b>Abstract</b>: 
+Uncertainty in classical stochastic programming models is often described solely by independent random parameters, ignoring their dependence on multidimensional features. We describe a novel contextual chance-constrained programming formulation that incorporates features, and argue that solutions that do not take them into account may not be implementable. Our formulation cannot be solved exactly in most cases, and we propose a tractable and fully data-driven approximate model that relies on weighted sums of random variables. Borrowing results from quenched large deviation theory we show the exponential convergence of our scheme as the number of data points increases. We illustrate our findings with an example from a soccer hiring problem based on the player’s transfer market in the UK using real data.
 </p>
 </article> 
 </li>
@@ -86,9 +87,61 @@ The concepts of risk-aversion, chance-constrained optimization, and robust optim
 ~~~
 {}{raw}
 <ul>
+<li><p><b>Frameworks and Results in Distributionally Robust Optimization</b>, with S. Mehrotra</p>
+<ul>
+<li><p><a href="https://doi.org/10.5802/ojmo.15"><i>Open Journal of Mathematical Optimization</i>, 3(4): 1-85, 2022</a></p>
+</li>
+<li>
+<article><p><b>Abstract</b>: 
+The concepts of risk aversion, chance-constrained optimization, and robust optimization have developed significantly over the last decade. The statistical learning community has also witnessed a rapid theoretical and applied growth by relying on these concepts. A modeling framework, called &ldquo;distributionally robust optimization&rdquo (DRO), has recently received significant attention in both the operations research and statistical learning communities. This paper surveys main concepts and contributions to DRO, and relationships with robust optimization, risk aversion, chance-constrained optimization, and function regularization. Various approaches to model the distributional ambiguity and their calibrations are discussed. The paper also describes the main solution techniques used to the solve the resulting optimization problems.
+</p>
+</article> 
+</li>
+</ul>   
+</li>
+</ul>
+~~~
+
+
+~~~
+{}{raw}
+<ul>
+<li><p><b>Effective Scenarios in Multistage Distributionally Robust Optimization with a Focus on Total Variation Distance</b>, with G. Bayraksan and T. Homem-de-Mello <br /> </p>
+<ul>
+<li><p><a href="https://doi.org/10.1137/21M1446484"><i>SIAM Journal on Optimization</i>, March 2022</a></p>
+</li>
+<li><article><p><b>Abstract</b>: We study multistage distributionally robust optimization (DRO) to hedge against ambiguity in quantifying the underlying uncertainty of a problem. Recognizing that not all the realizations and scenario paths might have an ``effect'' on the optimal value, we investigate the question of how to define and identify critical scenarios for nested multistage DRO problems. Our analysis extends the work of Rahimian, Bayraksan, and Homem-de-Mello [Math. Program., 173 (2019), pp. 393--430], which was in the context of a static/two-stage setting, to the multistage setting. To this end, we define the notions of effectiveness of scenario paths and the conditional effectiveness of realizations along a scenario path for a general class of multistage DRO problems. We then propose easy-to-check conditions to identify the effectiveness of scenario paths in the multistage setting when the distributional ambiguity is modeled via the total variation distance. Numerical results show that these notions provide useful insight on the underlying uncertainty of the problem.
+</p>
+</article> 
+</li>
+</ul>
+</li>
+</ul>
+~~~
+
+
+~~~
+{}{raw}
+<ul>
+<li><p><b>A Synthetic Data-plus-Features Driven Approach for Portfolio Optimization</b>, with B. K. Pagnoncelli, D. Ramirez, and A. Cifuentes<br /> </p>
+<ul>
+<li><p><a href="https://doi.org/10.1007/s10614-022-10274-2"><i>Computational Economics</i>, May 2022</a></p>
+</li>
+<li><article><p><b>Abstract</b>: Features, or contextual information, are additional data than can help predicting asset returns in financial problems. We propose a mean-risk portfolio selection problem that uses contextual information to maximize expected returns at each time period, weighing past observations via kernels based on the current state of the world. We consider yearly intervals for investment opportunities, and a set of indices that cover the most relevant investment classes. For those intervals, data scarcity is a problem that is often dealt with by making distribution assumptions. We take a different path and use distribution-free simulation techniques to populate our database. In our experiments we use the Conditional Value-at-Risk as our risk measure, and we work with data from 2007 until 2021 to evaluate our methodology. Our results show that, by incorporating features, the out-of-sample performance of our strategy outperforms the equally-weighted portfolio. We also generate diversified positions, and efficient frontiers that exhibit coherent risk-return patterns.
+</p>
+</article> 
+</li>
+</ul>
+</li>
+</ul>
+~~~
+
+~~~
+{}{raw}
+<ul>
 <li><p><b>A Model of Supply-Chain Decisions for Resource Sharing with an Application to Ventilator Allocation to Combat COVID-19</b>, with S. Mehrotra, M. Barah, F. Luo, and K. Schantz</p>
 <ul>
-<li><p><a href="https://doi.org/10.1002/nav.21905"><i>Naval Research Logistics</i>, May 2020</a></p>
+<li><p><a href="https://doi.org/10.1002/nav.21905"><i>Naval Research Logistics</i>, 67 (5): 303-320</a></p>
 </li>
 <li>
 <article><p><b>Abstract</b>: 
@@ -139,7 +192,7 @@ We present a stochastic optimization model for allocating and sharing a critical
 ~~~
 {}{raw}
 <ul>
-<li><p><b>Optimal Long-Term Distributed Generation Planning and Reconfiguration of Distribution Systems: ‎An Accelerating Benders&rsquo; Decomposition Approach</b>, with S. Khodayifar, M.A. Raayatpanah, A. Rabiee, and P.M. Pardalos</p>
+<li><p><b>Optimal Long-Term Distributed Generation Planning and Reconfiguration of Distribution Systems: An Accelerating Benders&rsquo; Decomposition Approach</b>, with S. Khodayifar, M.A. Raayatpanah, A. Rabiee, and P.M. Pardalos</p>
 <ul>
 <li><p><a href="https://doi.org/10.1007/s10957-018-1367-5"><i>Journal of Optimization Theory and Applications</i>, 179 (1): 283-310, 2018</a></p>
 </li>
@@ -283,18 +336,18 @@ stochastic optimization (DRSO for short), which assumes the underlying probabili
 distribution is unknown but lies in an ambiguity set of distributions. <br />
 Many existing studies on DRSO focus on how to construct the ambiguity set and
 how to transform the resulting DRSO into equivalent (well-studied) models such as
-mixed-integer programming and semidefinite programming. This dissertation, however,
+mixed-integer programming and semidefinite programming. This dissertation, however,
 addresses more fundamental questions, in a different manner than the literature.
 An overarching question that motivates most of this dissertation is which
 scenarios/uncertainties are critical to a stochastic optimization problem? A major
-contribution of this dissertation is a precise mathematical definition of what is meant by 
+contribution of this dissertation is a precise mathematical definition of what is meant by 
 a critical scenario and investigation on how to identify them for DRSO. As has
 never been done before for DRSO (to the best of our knowledge), we introduce the
 notion of effective and ineffective scenarios for DRSO. <br />
 This dissertation considers DRSOs for which the ambiguity set contains all probability
 distributions that are not far&#8201;&mdash;&#8201;in the sense of the so-called total variation
 distance&#8201;&mdash;&#8201;from a nominal distribution (which may be obtained from data). This dissertation
-then identifies effective scenarios for two classes of DRSO problems formed
+then identifies effective scenarios for two classes of DRSO problems formed
 via the total variation distance: (1) a class of convex stochastic optimization problems
 with a discrete sample space and (2) a class of inventory problems with a continuous
 sample space. <br />
@@ -305,9 +358,9 @@ the ambiguity set of distributions. Then, we devise customized algorithms to sol
 DRSO formed via the total variation distance. Moreover, we survey existing algorithms
 to solve a closely related risk-averse optimization problem to those induced by
 the studied DRSO problems, and we propose new variations. Finally, to highlight the
-practical relevance of our findings, we implement all our modeling, theoretical, and
+practical relevance of our findings, we implement all our modeling, theoretical, and
 computational results to solve problems arising in environment, energy, healthcare,
-and finance.
+and finance.
 </p>
 </article> 
 </li>

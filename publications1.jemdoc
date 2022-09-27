@@ -23,7 +23,7 @@
     -- *Runner-Up, 2017  INFORMS Computing Society Student Paper Award*
     -- *Abstract*: Traditional stochastic programs assume that the probability distribution of uncertainty is known. However, in practice, the probability distribution oftentimes is not known or cannot be accurately approximated. One way to address such distributional ambiguity is to work with distributionally robust convex stochastic programs (DRSPs), which minimize the worst-case expected cost with respect to a set of probability distributions. In this paper we analyze the case where there is a finite number of possible scenarios and study the question of how to identify the critical scenarios resulting from solving a DRSP. We illustrate that not all, but only some scenarios might have "effect" on the optimal value, and we formally define this notion for our general class of problems. In particular, we examine problems where the distributional ambiguity is modeled by the so-called total variation distance. We propose easy-to-check conditions to identify /effective/ and /ineffective/ scenarios for that class of problems. Computational results show that identifying effective scenarios provides useful insight on the underlying uncertainties of the problem.
 
-- *Optimal Long-Term Distributed Generation Planning and Reconfiguration of Distribution Systems: ‎An Accelerating Benders' Decomposition Approach*, with S. Khodayifar, M.A. Raayatpanah, A. Rabiee, and P.M. Pardalos
+- *Optimal Long-Term Distributed Generation Planning and Reconfiguration of Distribution Systems: An Accelerating Benders' Decomposition Approach*, with S. Khodayifar, M.A. Raayatpanah, A. Rabiee, and P.M. Pardalos
     -- [https://doi.org/10.1007/s10957-018-1367-5 /Journal of Optimization Theory and Applications/, 179 (1): 283-310, 2018]
     -- *Abstract*: In this paper, we study the multi-period distributed generation planning problem in a multistage hierarchical distribution network. We first formulate the problem as a non-convex mixed-integer nonlinear programming problem. Since the proposed model is non-convex and generally hard to solve, we convexify the model based on semi-definite programming. Then, we use a customized Benders’ decomposition method with valid cuts to solve the convex relaxation model. Computational results show that the proposed algorithm provides an efficient way to solve the problem for relatively large-scale networks.
 
@@ -73,18 +73,18 @@
             distribution is unknown but lies in an ambiguity set of distributions. \n
             Many existing studies on DRSO focus on how to construct the ambiguity set and
             how to transform the resulting DRSO into equivalent (well-studied) models such as
-            mixed-integer programming and semidefinite programming. This dissertation, however,
+            mixed-integer programming and semidefinite programming. This dissertation, however,
             addresses more fundamental questions, in a different manner than the literature.
             An overarching question that motivates most of this dissertation is which
             scenarios/uncertainties are critical to a stochastic optimization problem? A major
-            contribution of this dissertation is a precise mathematical definition of what is meant by 
+            contribution of this dissertation is a precise mathematical definition of what is meant by 
             a critical scenario and investigation on how to identify them for DRSO. As has
             never been done before for DRSO (to the best of our knowledge), we introduce the
             notion of effective and ineffective scenarios for DRSO. \n
             This dissertation considers DRSOs for which the ambiguity set contains all probability
             distributions that are not far---in the sense of the so-called total variation
             distance---from a nominal distribution (which may be obtained from data). This dissertation
-            then identifies effective scenarios for two classes of DRSO problems formed
+            then identifies effective scenarios for two classes of DRSO problems formed
             via the total variation distance: (1) a class of convex stochastic optimization problems
             with a discrete sample space and (2) a class of inventory problems with a continuous
             sample space. \n
@@ -95,9 +95,9 @@
             DRSO formed via the total variation distance. Moreover, we survey existing algorithms
             to solve a closely related risk-averse optimization problem to those induced by
             the studied DRSO problems, and we propose new variations. Finally, to highlight the
-            practical relevance of our findings, we implement all our modeling, theoretical, and
+            practical relevance of our findings, we implement all our modeling, theoretical, and
             computational results to solve problems arising in environment, energy, healthcare,
-            and finance.
+            and finance.
 
     - *Discrete Optimization in Multiple Allocation Hub Location Problems* 
         -- M.Sc. Thesis, Sharif University of Technology, 2011

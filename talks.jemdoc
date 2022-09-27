@@ -1,12 +1,16 @@
 # jemdoc: menu{MENU}{talks.html}
-= Invited Talks and Posters
+= Invited Seminar and Posters
 
-== Invited talks
 
- - *Distributionally Robust Optimization with Decision-Dependent Uncertainty*, /Sharif University of Technology/, Virtual.
- - *Multi-Product Newsvendor Problems with Decision-Dependent Demands*, /INFORMS Annual Meeting 2020/, Virtual.
- - *Distributionally Robust Optimization with Decision-Dependent Uncertainty*, /The University of Arizona/, Virtual.
- - *[https://www.youtube.com/watch?v=GMiOSP9TL3M&feature=emb_logo A Model of Supply-Chain Decisions for Resource Sharing with an Application to Ventilator Allocation to Combat COVID-19*], /[https://talks.discreteopt.com/ Discrete Optimization Talks (DOTs)]/,  Virtual.
+== Invited Conference Presentations
+
+ - *Contextual Expected-Value-Constrained Programming*, /INFORMS Annual Meeting/, Indianapolis, IN, October 16–-19, 2022.
+ - *Sequential Convexification of a Bilinear Set*, /ICCOPT/, Lehigh, PA, July 25--28, 2022.
+ - *Joint Stocking and Pricing Decisions for Distributionally Robust Inventory Problems with Decision-Dependent Demands*, /ESCO-CMS/, Venice, Italy, June 29, 2022–-July 1, 2022.
+ - *Risk-Averse and Chance-Constrained Two-Stage Stochastic Programming Approach for Pharmaceutical Supply Chain Planning*, /INFORMS Optimization Society Conference/, Greenville, SC, March 13-–15, 2022.
+ - *Contextual Chance-Constrained Programming*, /INFORMS Annual Meeting/, Anaheim, CA, October 24-–27, 2021.
+ - *Joint Stocking and Pricing Decisions for Distributionally Robust Inventory Problems with Decision-Dependent Demands*, /INFORMS Annual Meeting/, Virtual, November 8–-11, 2020. 
+ - *Joint Stocking and Pricing Decisions For Distributionally Robust Inventory Problems with Decision-Dependent Demands*, /INFORMS Annual Meeting/, October 20--23, 2019, Seattle, WA.
  - *Joint Stocking and Pricing Decisions For Distributionally Robust Inventory Problems with Decision-Dependent Demands*, /INFORMS Annual Meeting/, October 20--23, 2019, Seattle, WA.
  - *Prescriptive Static Stochastic Programming*, /INFORMS Annual Meeting/, October 20--23, 2019, Seattle, WA.
  - *Distributionally Robust Newsvendor with Variation Distance: Calibration under Limited Information and Application to Reserving Operating Room Time*, /INFORMS Annual Meeting/, November 4--7, 2018, Phoenix, AZ.
