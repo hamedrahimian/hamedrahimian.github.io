@@ -31,25 +31,24 @@ My esearch has been recognized with several awards, including *Runner-Up prize I
 
 
 == Research
-My research focuses on the theoretical and practical aspects of data-driven decision-making problems in uncertain and risky environments. 
+My research focuses on data-driven decision-making and learning problems in uncertain and risky environments involving contextual data to develop robust and computationally efficient methodolody with theoretical gunarantees. 
 In particular, my research interests include  
  - Stochastic optimization 
  - Data-driven optimization
  - Risk-averse and distributionally robust optimization
-to develop robust and computationally efficient methodolody with theoretical gunarantees for decision-making and learning problems involving offline and contextual data. 
-[publications.html Find out more].
+ [publications.html Find out more].
 
 == News
 
-- July 2023: Organized a minisymposium on "Recent Advances to Solve Stochastic and Robust Optimization Problems" at "[https://na.eventscloud.com/website/40825/home/ 2023 XVI International Conference Stochastic Programming]". 
+- July 2023: Organized a minisymposium on "Recent Advances to Solve Stochastic and Robust Optimization Problems" at [https://na.eventscloud.com/website/40825/home/ 2023 XVI International Conference Stochastic Programming]. 
 - April 2023: Our paper on "[https://doi.org/10.1002/nav.21905 A Model of Supply-Chain Decisions for Resource Sharing with an Application to Ventilator Allocation to Combat COVID-19]" is awarded the "[https://onlinelibrary.wiley.com/page/journal/15206750/homepage/harold_w_kuhn_award.htm Harold W. Kuhn Award]" by the Journal of /Naval Research Logistics/. 
 - October 2022: Presented a talk on "Contextual Expected-Value-Constrained Stochastic Programming" at /INFORMS Annual Meeting 2022/, Indianapolis, IN.
 - October 2022: Organized two sessions on "Distributionally Robust Learning and Optimization" at /INFORMS Annual Meeting 2022/, Indianapolis, IN. 
 - October 2022: Submitted a journal paper on "[https://optimization-online.org/?p=20569 Data-Driven Approximation of Contextual Chance-Constrained Stochastic Programs]".
 - July 2022: Our paper on "[https://doi.org/10.5802/ojmo.15 Frameworks and Results in Distributionally Robust Optimization]" is published in /Open Journal of Mathematical Optimization/.
-- July 2022: Presented a talk on "Sequential Convexification of a Bilinear Set" at ICCOPT 2022, Lehigh, PA.
+- July 2022: Presented a talk on "Sequential Convexification of a Bilinear Set" at /ICCOPT 2022/, Lehigh, PA.
 - June 2022: Presented a talk on "Joint Stocking and Pricing Decisions for Distributionally Robust Inventory Problems with Decision-Dependent Demands" at /ESCO-CMS/ 2022, Venice, Italy. 
-- June 2022: Organized the Cluster of Optimization under Uncertainty at /2022 CORS/INFORMS International Conference/, Vancouver, Canada. 
+- June 2022: Organized the Cluster of Optimization under Uncertainty at /2022 CORS//INFORMS International Conference/, Vancouver, Canada. 
 - May 2022: Our paper on "[https://doi.org/10.1007/s10614-022-10274-2 A Synthetic Data-plus-Features Driven Approach for Portfolio Optimization]" is published online in /Computational Economics/.
 - March 2022: Our paper on "[https://doi.org/10.1137/21M1446484 Effective Scenarios in Multistage Distributionally Robust Optimization with a Focus on Total Variation Distance]" is published in /SIAM Journal on Optimization/.
 - March 2022: Presented a talk on "Risk-Averse and Chance-Constrained Two-Stage Stochastic Programming Approach for Pharmaceutical Supply Chain Planning" at /IOS 2022/, Greenville, SC. 
