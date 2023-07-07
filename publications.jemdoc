@@ -310,12 +310,11 @@ We present a stochastic optimization model for allocating and sharing a critical
 <ul>
 <li><p><b>A Classification Method for Ranking and Selection with Covariates</b>, with G. Keslin*, B. N. Nelson, M. Plumlee, B. K. Pagnoncelli<br /></p>
 <ul>
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/10015235"><i>Proceedings of the Winter Simulation Conference (WSC '22)</i>, June 2022</p>
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/10015235"><i>Proceedings of the Winter Simulation Conference (WSC '22)</i>, June 2022</a></p>
 </li>
 <li><article><p><b>Abstract</b>: Ranking & selection (R&S) procedures are simulation-optimization algorithms for making one-time decisions among a finite set of alternative system designs or feasible solutions with a statistical assurance of a good selection. R&S with covariates (R&S+C) extends the paradigm to allow the optimal selection to depend on contextual information that is obtained just prior to the need for a decision. The dominant approach for solving such problems is to employ offline simulation to create metamodels that predict the performance of each system or feasible solution as a function of the covariate. This paper introduces a fundamentally different approach that solves individual R&S problems offline for various values of the covariate, and then treats the real-time decision as a classification problem: given the covariate information,  which system is a good solution? 
-Our approach exploits the availability of efficient R&S procedures, requires milder assumptions than the metamodeling paradigm to provide strong guarantees, and can be more efficient. 
-</p>
-</article> 
+Our approach exploits the availability of efficient R&S procedures, requires milder assumptions than the metamodeling paradigm to provide strong guarantees, and can be more efficient. </p>
+</article>
 </li>
 </ul>
 </li>
@@ -328,7 +327,7 @@ Our approach exploits the availability of efficient R&S procedures, requires mil
 <ul>
 <li><p><b>A Risk-Averse and Chance-Constrained Two-Stage Stochastic Programming Model for Pharmaceutical Supply Chain Management under Demand Uncertainty</b>, with S. R. Pathy* <br /></p>
 <ul>
-<li><p><a href="https://www.proquest.com/openview/b838b61aa36780a235e11616eed64a96/1?pq-origsite=gscholar&cbl=51908"><i>Proceedings of the IISE Annual  Conference & Expo</i>, April 2022</p>
+<li><p><a href="https://www.proquest.com/openview/b838b61aa36780a235e11616eed64a96/1?pq-origsite=gscholar&cbl=51908"><i>Proceedings of the IISE Annual  Conference & Expo</i>, April 2022</a></p>
 </li>
 <li><article><p><b>Abstract</b>: We study an inventory management problem for a pharmaceutical supply chain under demand uncertainty. To model the problem, we consider a risk-averse two-stage stochastic program, where the maximum value of the cost is minimized. Moreover, we enforce the demand satisfaction with a joint chance constraint. To solve the resulting model, we develop a decomposition algorithm, capable of handling the chance constraint. Numerical experiments shows the computational efficiency of our proposed  algorithm. 
 </p>
@@ -345,7 +344,7 @@ Our approach exploits the availability of efficient R&S procedures, requires mil
 <ul>
 <li><p><b>Capacitated Multiple Allocation Hub Location-Covering Problem</b>, with K. Eshghi <br /></p>
 <ul>
-<li><p><i>Proceedings of the 7th International Industrial Engineering Conference</i>, Isfahan, Iran, 2010</p>
+<li><p><i>Proceedings of the 7th International Industrial Engineering Conference</i>, Isfahan, Iran, 2010</a></p>
 </li>
 <li><article><p><b>Abstract</b>: In this paper, we study a capacitated multiple allocation hub location problem, where the amount of flow that hub nodes can collect from non-hub nodes is constrained. The underlying network is assumed to be complete and the distance between nodes are assumed to be unstructured, in contrast to the networks in which distances satisfy the triangle inequality. To route the flow on each non-hub to hub link and to prevent constructing underutilized networks, a flow threshold for each non-hub and hub link is assumed. Moreover, in order to improve the service level, a coverage radius is defined for each hub node. As good formulations of mixed-integer programming models are part of the solution process, we identify some properties of the optimal solutions by utilizing the structure of the problem. In addition, we derive facet-defining flow cover and knapsack cover inequalities to strengthen the formulation. The computational experiences on medium sized instances of Australia Post show that generating facet-defining inequalities can significantly improve the lower bound of the usual linear programming relaxation.
 </p>
