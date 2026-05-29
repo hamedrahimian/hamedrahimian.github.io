@@ -8,7 +8,9 @@ For current syllabi, please search the Clemson University [https://syllabus.app.
 *Undergraduate* 
 - IE 3610: Industrial Applications of Probability and Statistics II, Fall 2020-2024, Spring 2023-2025.
 -- /Topics/: Descriptive statistics, Point estimation and properties, Statistical intervals based on a single sample, Hypothesis tesing based on a single sample, Statistical intervals and hypothesis tesing based on  two samples, Linear regression, Logistic regression, Nonlinear and multiple regression, Goodness-of-fit tests, software R. 
-    
+- IE 3800: Deterministic Operations Research, Spring 2026.
+-- /Topics/: Operations research models, including linear programming and integer linear programming, Simplex algorithm and special cases, LP duality and economic interpretation, LP sensitivity analayis. 
+
 *Graduate*
-- IE 8800: Advanced Methods of Operations Research, Spring 2021-2025.     
+- IE 8800: Advanced Methods of Operations Research, Spring 2021-2026.     
 -- /Topics/: Review of basic real analysis, Convex analysis, Advanced linear programming, Optimality conditions for unconstrained optimization problems,  Optimality conditions for convex optimization problems, Optimality conditions for constrained optimization problems, Lagrangian duality.
